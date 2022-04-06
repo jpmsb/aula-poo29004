@@ -1,5 +1,6 @@
 # Trabalhando com o GitHub
 
-Repositório para aprender a usar o GitHub no terminal
+## Repositório para aprender a usar o GitHub
 
- - Usando o VSCode
+ - Criar repositório;
+ - Criar token;
